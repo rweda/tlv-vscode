@@ -1,3 +1,8 @@
+# ARCHIVED
+
+This repository has been merged into the [Makerchip VS Code extension repo](https://github.com/rweda/makerchip-vscode-extension).
+
+
 # TL-Verilog support for VSCode
 
 TL-Verilog support inspired by [SystemVerilog extension](https://github.com/mshr-h/vscode-systemverilog-support).
